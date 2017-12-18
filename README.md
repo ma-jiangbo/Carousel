@@ -1,2 +1,2 @@
 # 轮播封装
-**onlie demo**:maaaaxx.github.io/Carousel/
+**demo**:[maaaaxx.github.io/Carousel](maaaaxx.github.io/Carousel)
